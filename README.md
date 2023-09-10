@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ananyaluthra
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning website development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a Computer Science student at McGill
+- 🌱 I’m currently learning Data Science
 
 <!---
 ananyaluthra/ananyaluthra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
